@@ -1,0 +1,265 @@
+{
+  "songs": [
+    {
+      "bg": "#fff",
+      "artist": "sickick",
+      "songName": "1346. проглашење за цара",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "bless you",
+      "songName": "Благослов од мога господара",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "lil uzi vert",
+      "songName": "Принцезино љубавно писмо",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "travis scott",
+      "songName": "Три дана јахања",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "randall",
+      "songName": "Тролова загонетка",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "tritonal",
+      "songName": "Моја барби дама",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "the weeknd",
+      "songName": "Музика тежа од господареве руке",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Трговачки путеви Кулина Бана",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Тежак рад на пољима",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Вјештичија колиба",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Моравска земља",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Бранковић пролази кроз Српске Земље",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Земља Билећког побједника",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Ноћ прије битке",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Ој, ружице румена",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Марш тешке коњице",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Нахрани ме господару",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Роб али храбар",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Стројна Мома јаму копа",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Јутрос рано",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Летење са змајевима",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Моја прекрасна жена",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "О, молим те, твоја најлепша дама благослови ме када видим твоје глежњеве",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Јуриш светог цара Лазара",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Поздрав путниче",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Протјеривање турака",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Плес куге",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Идемо да пљачкамо Африку",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#fff",
+      "artist": "arizona zervas",
+      "songName": "Вртуљак плесне куге",
+      "files": {
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    }
+  ]
+}
